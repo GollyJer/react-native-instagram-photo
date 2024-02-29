@@ -3,13 +3,13 @@
 ## Tech Stack
 GollyJer/react-native-instagram-photo is built on the following main stack:
 
-- [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
-- [React](https://reactjs.org/) – Javascript UI Libraries
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - [Autoprefixer](https://github.com/postcss/autoprefixer) – CSS Pre-processors / Extensions
+- [React](https://reactjs.org/) – Javascript UI Libraries
 - [React Native](http://facebook.github.io/) – Cross-Platform Mobile Development
 - [Babel](http://babeljs.io/) – JavaScript Compilers
 - [ESLint](http://eslint.org/) – Code Review
+- [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - [Yarn](https://yarnpkg.com/) – Front End Package Manager
 
 Full tech stack [here](/techstack.md)
@@ -20,13 +20,13 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 GollyJer/react-native-instagram-photo is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/830/jest.png' alt='Jest'/> [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
-- <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png' alt='Autoprefixer'/> [Autoprefixer](https://github.com/postcss/autoprefixer) – CSS Pre-processors / Extensions
+- <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/2699/KoK6gHzp.jpg' alt='React Native'/> [React Native](http://facebook.github.io/) – Cross-Platform Mobile Development
 - <img width='25' height='25' src='https://img.stackshare.io/service/2739/-1wfGjNw.png' alt='Babel'/> [Babel](http://babeljs.io/) – JavaScript Compilers
 - <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
+- <img width='25' height='25' src='https://img.stackshare.io/service/830/jest.png' alt='Jest'/> [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/5848/44mC-kJ3.jpg' alt='Yarn'/> [Yarn](https://yarnpkg.com/) – Front End Package Manager
 
 Full tech stack [here](/techstack.md)
@@ -38,7 +38,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [GollyJer/react-native-instagram-photo](https://github.com/GollyJer/react-native-instagram-photo)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|21<br/>Tools used|01/05/24 <br/>Report generated|
+|21<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
